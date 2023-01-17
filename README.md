@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **yakutsuphan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/0Suphan0/Resume/blob/main/S%C3%9CPHAN%20YAKUT%20(2).pdf](https://github.com/0Suphan0/Resume/blob/main/S%C3%9CPHAN%20YAKUT%20(2).pdf)
-
 - ⚡ Fun fact **I love Computer.**
 
 <h3 align="left">Connect with me:</h3>
