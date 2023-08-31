@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yakutsuphan@gmail.com**
 
-- ⚡ Fun fact **I love Computer.**
+- ⚡ Fun fact **I love Coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
