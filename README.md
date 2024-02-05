@@ -22,17 +22,18 @@
 </div>
 
 
- <div style="display: flex; justify-content: space-evenly;">
-  <!-- Metni içeren bölüm (solda) -->
+ <div style="display: flex; flex-direction: column-reverse; align-items: flex-start;">
+  <!-- Gif'i içeren bölüm (üstte) -->
+  <div>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1MGJ6Mjg0c2NyZ25xcDF1MGpsZjJwa2gwcGNsZGRrZWJzeWJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif" />
+  </div>
+
+  <!-- Metni içeren bölüm (altta) -->
   <div>
     <p>🍌 Don't forget to get some Potassium 🍌</p>
   </div>
-
-  <!-- Gif'i içeren bölüm (sağda) -->
-  <div>
-    <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1MGJ6Mjg0c2NyZ25xcDF1MGpsZjJwa2gwcGNsZGRrZWJzeWJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif" />
-  </div>
 </div>
+
 
 
 
