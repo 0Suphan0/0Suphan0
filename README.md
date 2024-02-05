@@ -1,26 +1,25 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/s%C3%BCphan-yakut-81a839220/">Süphan</a></h2>
 <p>I am a Computer Engineer and Full Stack Developer based in Turkey. Currently, my focus is on web development and mobile development. I have previous experience in game development as well. Recently, I have been actively involved in the realms of artificial intelligence, specifically in machine learning and deep learning.</p>
+
 <div style="display: flex; justify-content: space-evenly;">
   <!-- İkonları içeren bölüm (solda) -->
   <div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://linkedin.com/in/s%c3%bcphan-yakut-81a839220" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c3%bcphan-yakut-81a839220" height="30" width="40" />
-    </a>
-    
-    <a href="https://instagram.com/yakutsuphan" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakutsuphan" height="30" width="40" />
-    </a>
-    
-    <a href="https://www.hackerrank.com/yakutsuphan" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakutsuphan" height="30" width="40" />
-    </a>
-    
-    <a href="https://www.leetcode.com/0suphan0" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0suphan0" height="30" width="40" />
-    </a>
-  </div>
+  <a href="https://linkedin.com/in/s%c3%bcphan-yakut-81a839220" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c3%bcphan-yakut-81a839220" height="30" width="40" />
+  </a>
+  
+  <a href="https://instagram.com/yakutsuphan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yakutsuphan" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/yakutsuphan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakutsuphan" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.leetcode.com/0suphan0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0suphan0" height="30" width="40" />
+  </a>
 </div>
-
 
 
   <!-- Gif'i içeren bölüm (sağda) -->
