@@ -25,7 +25,7 @@
 
   <!-- Gif'i içeren bölüm (sağda) -->
   <div>
-    <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+    <img align="right" src="https://giphy.com/gifs/funny-capacity-VbAFrrDVGAvZu" />
   </div>
 </div>
 
