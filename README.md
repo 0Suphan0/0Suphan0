@@ -54,7 +54,7 @@
     
     <!-- GitHub istatistik kartı -->
     <div style="float: left; width: 60%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=0suphan0&show_icons=true&locale=en" alt="0suphan0" style="max-width: 100%;" />
+      <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0suphan0&show_icons=true&locale=en" alt="0suphan0" /></p>
     </div>
   </div>
 </div>
