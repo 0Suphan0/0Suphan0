@@ -22,9 +22,9 @@
 </div>
 
 
- <div style="display: flex; flex-direction: column-reverse; align-items: flex-start;">
+ <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
   <!-- Gif'i içeren bölüm (üstte) -->
-  <div>
+  <div style="margin-right: 20px;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1MGJ6Mjg0c2NyZ25xcDF1MGpsZjJwa2gwcGNsZGRrZWJzeWJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif" />
   </div>
 
@@ -33,6 +33,7 @@
     <p>🍌 Don't forget to get some Potassium 🍌</p>
   </div>
 </div>
+
 
 
 
