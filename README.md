@@ -35,11 +35,11 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on Flutter.</li>
-<li>🧐 Learning about <strong>.NET Core</strong>, <strong>Angular</strong>,<strong> Python</strong> and a bit of <strong>ML</strong>.</li>
+<li>🔭 I’m currently working on .NET Core and Flutter</li>
+<li>🧐 Learning about <strong>Angular</strong>,<strong> Python</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/0Suphan0">Github</a>.</li>
 
-<li>💬 Ping me about <strong>Flutter, OOP  and PostgreSQL</strong>.</li>
+<li>💬 Ping me about <strong>.NetCore, Flutter, OOP  and PostgreSQL</strong>.</li>
 <li>📙 Check out my <a target="_blank" href="https://github.com/0Suphan0/Resume/blob/main/S%C3%9CPHAN%20YAKUT.pdf">resume</a>.</li>
 <li>🎉 In Short: I am both an engineer and a coder.</li>
 </ul>
