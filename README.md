@@ -36,7 +36,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <strong>.NET Core</strong> and <strong>Flutter</strong></li>
-<li>🧐 Learning about <strong>Angular</strong>,<strong> Python</strong> and a bit of <strong>ML</strong>.</li>
+<li>🧐 Learning about <strong>React</strong>,<strong> Python</strong> and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/0Suphan0">Github</a>.</li>
 
 <li>💬 Ping me about <strong>.NetCore, Flutter, OOP  and PostgreSQL</strong>.</li>
