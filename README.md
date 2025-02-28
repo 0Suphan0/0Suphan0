@@ -40,7 +40,6 @@
 <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/0Suphan0">Github</a>.</li>
 
 <li>💬 Ping me about <strong>.NetCore, Flutter, OOP  and PostgreSQL</strong>.</li>
-<li>📙 Check out my <a target="_blank" href="https://github.com/0Suphan0/Resume/blob/main/Suphan_Yakut_Resume.pdf">resume</a>.</li>
 <li>🎉 In Short: I am both an engineer and a coder.</li>
 </ul>
 
