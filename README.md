@@ -1,5 +1,7 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/s%C3%BCphan-yakut-81a839220/">Süphan</a></h2>
-<p>I am a Computer Engineer and Full Stack Developer based in Turkey. Currently, my focus is on web development and mobile development. I have previous experience in game development as well. Recently, I have been actively involved in the realms of artificial intelligence, specifically in machine learning and deep learning.</p>
+<p>Computer Engineer | Full Stack Developer</p>
+<p>M.Sc. Informatics Student at TU Braunschweig</p>
+<p>Interested in Web Development, Mobile Apps, and Cloud Technologies</p>
 
 <div style="display: flex; justify-content: space-evenly;">
   <!-- İkonları içeren bölüm (solda) -->
