@@ -35,12 +35,12 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <strong>.NET Core</strong> and <strong>Flutter</strong> <strong>React</strong></li>
-<li>🧐 Learning about <strong> Python</strong> and a bit of <strong>ML</strong>.</li>
+<li>🔭 I’m currently working on <strong>.NET Core</strong> and <strong>React</strong></li>
+<li>🧐 Learning about <strong> cloud technologies </strong> </li>
 <li>👨‍💻 Most of my projects are available on <a target="_blank" href="https://github.com/0Suphan0">Github</a>.</li>
 
 <li>💬 Ping me about <strong>.NetCore, Flutter, OOP  and PostgreSQL</strong>.</li>
-<li>🎉 In Short: I am both an engineer and a coder.</li>
+<li>🎉 In short: Engineer by degree, coder by obsession.</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
