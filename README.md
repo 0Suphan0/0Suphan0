@@ -1,7 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/s%C3%BCphan-yakut-81a839220/">Süphan</a></h2>
-<p>Computer Engineer | Full Stack Developer</p>
-<p>M.Sc. Informatics Student at TU Braunschweig</p>
-<p>Interested in Web Development, Mobile Apps, and Cloud Technologies</p>
+<p>Computer Engineer and Full Stack Developer based in Germany. Currently pursuing an M.Sc. in Informatics at TU Braunschweig. Interested in web development, mobile applications, and cloud technologies. I have also worked on projects involving machine learning and deep learning.</p>
 
 <div style="display: flex; justify-content: space-evenly;">
   <!-- İkonları içeren bölüm (solda) -->
