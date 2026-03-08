@@ -17,7 +17,7 @@
   </a>
   
   <a href="https://www.leetcode.com/0suphan0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0suphan0" height="30" width="40" />
+    
   </a>
 </div>
 
