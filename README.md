@@ -24,7 +24,7 @@
 
  <!-- Gif'i içeren bölüm (sağda) -->
 <div>
-    <img align="right" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" width="400" height="auto" />
+    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhuY2hzM29rNmh1eGtjOG1ud2R6eWxubWNhMXphaW5qOXZhcXZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" height="auto" />
 </div>
 
 </div>
